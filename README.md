@@ -4,7 +4,7 @@
 This game is completly built in python language using pygame module.<br>
 Feel free to use this code.
 
-**DOWNLOAD ALL THE FILES TO RUN THE CODE**
+***DOWNLOAD ALL THE FILES TO RUN THE CODE***
 
 To run the Python code in command line<br>
 -> Firstly open the command prompt.<br>
